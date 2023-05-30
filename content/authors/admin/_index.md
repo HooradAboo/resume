@@ -5,13 +5,13 @@ avatar_filename: img_20230530_132346_790.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep Learning
+  - Image Processing
+  - Embedded Systems
 social:
   - icon: envelope
     icon_pack: fas
-    link: abootalebi@usf.edu
+    link: mailto:abootalebi@usf.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Hoorad_Aboo
@@ -44,11 +44,11 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Abootalebi
 highlight_name: true
-first_name: Alice
+first_name: Hoorad
 email: abootalebi@usf.edu
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hoorad is a Ph.D. student in Computer Science and Engineering at the University of South Florida. He acquired his B.S degree in Computer Engineering from Sharif University of Technology, Iran in 2020. His research is primarily focused on deep learning and mental health.
 {style="text-align: justify;"}
