@@ -1,6 +1,7 @@
 ---
 title: Hoorad Abootalebi
 role: Ph.D. Student in Computer Science and Engineering
+avatar_filename: img_20230530_132346_790.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
