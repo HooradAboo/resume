@@ -15,16 +15,16 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
+        - name: Programming
+          description: Python, C/C++
           icon: r-project
           icon_pack: fab
-        - name: Statistics
-          description: 100%
+        - name: Frameworks
+          description: Tensorflow, PyTorch, OpenCV
           icon: chart-line
           icon_pack: fas
-        - name: Photography
-          description: 10%
+        - name: Language
+          description: English, Persian
           icon: camera-retro
           icon_pack: fas
   - block: experience
@@ -39,12 +39,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Graduate Researcher
+          company: Center for Urban Transportation Research
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Florida
+          date_start: '2021-09-01'
           date_end: ''
           description: |2-
               Responsibilities include:
