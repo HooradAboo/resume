@@ -26,7 +26,7 @@ social:
     link: https://github.com/HooradAboo
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/Hoorad_Aboo
+    link: https://www.linkedin.com/HooradAboo
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
@@ -35,15 +35,12 @@ organizations:
     url: https://www.usf.edu/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science and Engineering
+      institution: University of South Florida
+      year: 2021
+    - course: BSc in Computer Architecture Engineering
+      institution: Sharif University of Technology
+      year: 2015
 superuser: true
 status:
   icon: ☕️
