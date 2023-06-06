@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: <a href='mailto:abootalebi@usf.edu">
+    link: mailto:abootalebi@usf.edu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/HooradAboo
