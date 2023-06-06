@@ -1,6 +1,6 @@
 ---
 title: Hoorad Abootalebi
-role: Ph.D. Student in Computer Science and Engineering
+role: Ph.D. Student in Computer Science
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -11,16 +11,16 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:abootalebi@usf.edu
+    link: <a href="mailto:abootalebi@usf.edu">
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/Hoorad_Aboo
+    link: https://twitter.com/HooradAboo
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap
+<!--   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ -->
   - icon: github
     icon_pack: fab
     link: https://github.com/HooradAboo
@@ -35,12 +35,12 @@ organizations:
     url: https://www.usf.edu/
 education:
   courses:
-    - course: PhD in Computer Science and Engineering
+    - course: PhD in Computer Science
       institution: University of South Florida
-      year: 2021
-    - course: BSc in Computer Architecture Engineering
+      year: 2026
+    - course: BSc in Hardware Engineering
       institution: Sharif University of Technology
-      year: 2015
+      year: 2020
 superuser: true
 status:
   icon: ☕️
